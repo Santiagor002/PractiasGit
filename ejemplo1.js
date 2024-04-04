@@ -19,3 +19,5 @@ console.log(entero)
 console.log(nombreApellido)
 console.log(flotante)
 console.log(booleana)
+
+/* cambio2 */
